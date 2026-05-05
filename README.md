@@ -1,26 +1,147 @@
-<h1 align="center">Hi 👋, I'm Mahtab Alam</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahtabkhan9&label=Profile%20views&color=0e75b6&style=flat" alt="mahtabkhan9" /> </p>
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mahtab+Alam+%F0%9F%91%8B;Full+Stack+Software+Engineer;MERN+Stack+%7C+Next.js+%7C+DevOps;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahtabkhan9" alt="mahtabkhan9" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **AI & ML**
+<!-- Badges row -->
+<a href="https://mahtab-portfolio-xi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mahtab7860/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mahtabalam7173@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/mahtabalam7173/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/mahtabal1xrk" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://mahtab-portfolio-xi.vercel.app/](https://mahtab-portfolio-xi.vercel.app/)
+<br/><br/>
 
-- 💬 Ask me about **MERN stack, Next.js, React Native, Tailwind CSS, DevOps**
+<img src="https://komarev.com/ghpvc/?username=mahtabkhan9&label=Profile+Views&color=00d9ff&style=flat-square" />
 
-- 📫 How to reach me **mahtabalam7173@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahtab7860/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahtab7860/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mahtabalam7173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahtabalam7173/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/mahtabal1xrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/mahtabal1xrk" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahtabkhan9&show_icons=true&locale=en&layout=compact" alt="mahtabkhan9" /></p>
+```javascript
+const mahtab = {
+  role:        "Full Stack Software Engineer",
+  location:    "India 🇮🇳",
+  expertise:   ["MERN Stack", "Next.js", "REST APIs", "Real-time Systems"],
+  education:   "B.Tech CSE @ Gaya College of Engineering",
+  currentFocus: "AI & ML Integration in Web Apps",
+  openTo:      "Full-time SDE Roles & Internships",
+  contact:     "mahtabalam7173@gmail.com",
+};
+```
+
+- 🔭 Currently building production-grade **full-stack applications** with AI-powered features
+- 💼 Previously interned at **CreditBucket Technologies** & **Grentech IN** — shipped real products used by real users
+- ⚡ Passionate about **high-performance, user-centric products** with clean architecture
+- 🌱 Exploring **AI/ML** to integrate intelligent features into web applications
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 [Bookswap — C2C Book Selling Marketplace](https://bookswap-web-sigma.vercel.app/)
+> *React.js · Redux · Node.js · Express.js · MongoDB · Socket.io · Razorpay · Gemini AI*
+
+- 🛒 Full-stack C2C marketplace with **real-time chat** (< 1s latency via Socket.io)
+- 🤖 Integrated **Google Gemini AI** for automatic book metadata extraction — cut manual listing effort by **~80%**
+- 💳 Credit-based listing system with **Razorpay** payment integration
+- 🔐 **15+ RESTful APIs** secured with JWT + OTP authentication
+
+---
+
+### 🎨 [RenderlyAI — AI Image Generator](https://renderly-omega.vercel.app/)
+> *React.js · Node.js · Express.js · MongoDB · Tailwind CSS · Razorpay · Clipdrop API*
+
+- 🖼️ MERN app generating AI images from text prompts via **Clipdrop API**
+- 💰 Credit-based system with **Razorpay** for monetisation
+- ✨ Polished animated UI using **Framer Motion** + Tailwind CSS
+
+---
+
+### 📅 [Event Management Platform](https://eventor-ten.vercel.app/)
+> *React.js · Node.js · Express.js · MongoDB · JWT*
+
+- ⚙️ Handles **concurrent RSVP requests** with strict capacity enforcement
+- ✅ **Eliminated 100% overbooking** via atomic MongoDB operations
+- 📡 Full CRUD REST APIs with minimised response times
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **Full Stack Web Development with DevOps & GenAI** — Sheryians Coding School
+- 📜 **NPTEL DBMS Certificate** — IIT Kharagpur
+- 🐍 **Python Essentials** — Cisco Netacad
+- 🏅 CGPA **8.2** in B.Tech Computer Science & Engineering
+
+---
+
+## 💼 Professional Experience
+
+**🏢 CreditBucket Technologies Pvt Ltd** *(Dec 2025 – Mar 2026)*
+> Built a Bank Statement Analyzer that automated financial data extraction, reducing processing time by **60%+** and achieving **90%+ accuracy** in transaction processing across 10+ analytical modules.
+
+**🏢 Grentech IN** *(Aug 2025 – Nov 2025)*
+> Delivered **50+ responsive UI components** from Figma designs with **90% pixel-perfect accuracy**, significantly reducing QA revision cycles.
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something great together!
+
+**📧 mahtabalam7173@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://mahtab-portfolio-xi.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahtab7860/)**
+
+<br/>
+
+*"Code is not just syntax — it's the bridge between imagination and reality."*
+
+</div>
