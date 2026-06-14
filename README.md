@@ -39,7 +39,7 @@ const mahtab = {
   expertise:   ["MERN Stack", "Next.js", "REST APIs", "Real-time Systems"],
   education:   "B.Tech CSE @ Gaya College of Engineering",
   currentFocus: "AI & ML Integration in Web Apps",
-  openTo:      "Full-time SDE Roles & Internships",
+  openTo:      "Full-time SDE Roles",
   contact:     "mahtabalam7173@gmail.com",
 };
 ```
