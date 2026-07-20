@@ -120,17 +120,14 @@ const mahtab = {
 - 🎓 **Full Stack Web Development with DevOps & GenAI** — Sheryians Coding School
 - 📜 **NPTEL DBMS Certificate** — IIT Kharagpur
 - 🐍 **Python Essentials** — Cisco Netacad
-- 🏅 CGPA **8.2** in B.Tech Computer Science & Engineering
+- 🏅 CGPA **8.21** in B.Tech Computer Science & Engineering
 
 ---
 
 ## 💼 Professional Experience
 
-**🏢 CreditBucket Technologies Pvt Ltd** *(Dec 2025 – Mar 2026)*
+**🏢 CreditBucket Technologies Pvt Ltd** *(Dec 2025 – Jan 2026)*
 > Built a Bank Statement Analyzer that automated financial data extraction, reducing processing time by **60%+** and achieving **90%+ accuracy** in transaction processing across 10+ analytical modules.
-
-**🏢 Grentech IN** *(Aug 2025 – Nov 2025)*
-> Delivered **50+ responsive UI components** from Figma designs with **90% pixel-perfect accuracy**, significantly reducing QA revision cycles.
 
 ---
 
